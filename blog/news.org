@@ -1,0 +1,63 @@
+
+title: News
+tag: 
+date: 2017-03-08 10:24:06
+description: News Information
+----------
+#+BABEL: :comments no
+#+VERSION: 0.03a
+
+* Recent News
+
+** Weekly Meeting
+
+本周例会取消（11月14号）cancell the weekly meeting
+Today's meeting is cancelled.
+
+
+Thank you
+
+Besh Wishes.
+
+
+linlin
+
+
+
+** Laboratory Annual Meeting Dinner 
+
+实验室年会聚餐通知
+
+亲爱的各位老师，各位同学，
+
+
+实验室年会聚餐定在2017年1月16号下午4:30。地点是开发区黄海西路191号的北李妈妈菜。
+
+届时热烈欢迎各位老师和同学们参加。
+
+
+祝老师们：
+
+工作顺利，身体健康。
+
+祝同学们：
+
+paper 多多，学业有成。
+
+
+
+  Wilna 实验室
+  
+
+** Weekly Meeting
+
+2017年3月6号星期一晚上18:00实验室例会通知 Notice weekly meeting
+2017年3月6号星期一晚上18:00实验室例会，地点综合楼四楼，出电梯左转进门，望周知。
+
+The coming weekly meeting will be held at 6:00 p.m on Monday afternoon, March 6, 2017.
+
+Thank you
+
+Best Wishes
+
+linlin

@@ -1,0 +1,23 @@
+﻿
+title: About WiLNA
+tag: 
+date: 2017-03-08 10:24:06
+description: WiLNA Information
+----------
+
+### About WiLNA
+
+
+###### Welcome
+
+Welcome to WiLAN based in School of Software, Dalian University of Technology (DUT), China.WiLAN is the abbreviation of "Wireless Lab For Network Application ".WiLAN is also a name for babys which means Friendship and Affection.We borrow this word to express the idea that we become a member of WiLAN not only because of the affection of the academic research,we also have developed deep friendship and become a lovely family.
+
+###### Research Interests
+
+We are interested in a broad spectrum of cutting-edge research topics including Wireless Network, WiFi access control, Security and privacy in vehicular and social networks, Neutrality and ISP Network Services and Keystroke Recognition.
+
+###### Contact Info
+
+Feel free to contact us if you have any questions. Our email address is wilanlab@gmail.com.
+
+Thank you for your interest!
